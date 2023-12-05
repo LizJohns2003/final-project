@@ -11887,4 +11887,14 @@ h3, .h3 {
   font-size: var(--font-size-lg);
 }
 
+.card .card-img-top {
+  object-fit: cover;
+}
+
+.header-elements .juice-image {
+  object-fit: cover;
+  object-position: top;
+  height: 500px;
+}
+
 /*# sourceMappingURL=custom.css.map */

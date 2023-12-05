@@ -56,3 +56,13 @@ $dark:          $gray-900;
   h3{
     font-size: var(--font-size-lg);
   }
+
+  .card .card-img-top {
+    object-fit: cover;
+  }
+
+  .header-elements .juice-image {
+    object-fit: cover;
+    object-position: top;
+    height: 500px;
+  }
